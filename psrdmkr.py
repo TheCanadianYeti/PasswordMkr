@@ -1,3 +1,4 @@
+#small personal project to make a password generator because i was tired of having to find one online (most of them are ad riddled)
 import random as rdm
 
 password = ""
