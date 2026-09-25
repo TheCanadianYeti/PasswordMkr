@@ -67,4 +67,5 @@ Most online password generators are cluttered with ads or require trusting a thi
 
 ## Author
 
-Built by [TheCanadianYeti](https://github.com/TheCanadianYeti)
+[Marcus Podnar](https://marcus.podnar.ca) · [GitHub](https://github.com/TheCanadianYeti) · [LinkedIn](https://www.linkedin.com/in/marcus-podnar-582187260/)
+
